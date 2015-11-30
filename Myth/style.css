@@ -1,0 +1,29 @@
+.techSkillsChart div {
+  font: 10px sans-serif;
+  background-color: steelblue;
+  text-align: right;
+  padding: 3px;
+  margin: 1px;
+  color: white;
+  box-sizing: border-box;
+}
+
+.socialSkillsChart div {
+  font: 10px sans-serif;
+  background-color: red;
+  text-align: right;
+  padding: 3px;
+  margin: 1px;
+  color: white;
+  box-sizing: border-box;
+}
+
+.timeMgmtSkillsChart div {
+  font: 10px sans-serif;
+  background-color: green;
+  text-align: right;
+  padding: 3px;
+  margin: 1px;
+  color: white;
+  box-sizing: border-box;
+}
