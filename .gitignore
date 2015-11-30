@@ -1,2 +1,4 @@
-
+node_modules
 .DS_Store
+d3.min.js
+d3.js
